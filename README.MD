@@ -1,80 +1,105 @@
-<h1 align="center">✨ Olá, sou Emerson Guimarães!</h1>
-<h3 align="center">Desenvolvedor Frontend • Belém/PA 🇧🇷</h3>
+<h1 align="center">🚀 Emerson Gabriel da Silva Guimarães</h1>
+<h3 align="center">Data & Tech Builder • BI • Engenharia de Dados • Fullstack</h3>
+<h4 align="center">Belém - Pará </h4>
 
 <p align="center">
-  <a href="https://twitter.com/gorodinho" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/gorodinho?style=social" alt="Twitter Follow">
-  </a>
   <a href="https://github.com/gor0d">
-    <img src="https://komarev.com/ghpvc/?username=gor0d&color=blueviolet" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=gor0d&color=0e75b6" alt="Profile Views"/>
+  </a>
+  <a href="https://linkedin.com/in/emersongsguimaraes">
+    <img src="https://img.shields.io/badge/LinkedIn-Emerson%20Guimarães-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:emersongsguimaraes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 👨‍💻 Sobre mim
 
+Sou profissional de tecnologia com foco em **dados, automação e soluções inteligentes**.  
+Atuo na área da saúde, desenvolvendo dashboards, relatórios estratégicos e projetos de inovação que apoiam a tomada de decisão.
+
+Minha missão é transformar dados em vantagem competitiva.
+
+🎓 Formação em Análise e Desenvolvimento de Sistemas  
+📊 Especialização em Data Science  
+🏥 Experiência prática em ambiente hospitalar  
+🌎 Orgulhosamente paraense  
 
 ---
 
-### 🚀 Atualmente...
+## 🧠 Atualmente focado em
 
-- 🔭 Trabalhando no **Project-Same**
-- 🌱 Aprendendo **React & TypeScript**
-- 📫 Contato: **emersongsguimaraes@gmail.com**
-- 🎨 Portfólio: [Behance](https://www.behance.net/emersonguimaraes)
+- 📊 Engenharia de Dados (Python, Airflow, DBT, SQL)
+- 🏗️ Arquitetura de dados e pipelines
+- ⚡ Automação e RPA
+- 🖥️ Desenvolvimento Fullstack (React + Node)
+- ☁️ Cloud (AWS | GCP | OCI)
 
 ---
 
-### 🌐 Conecte-se Comigo
+## 🛠️ Stack Principal
+
+### 📊 Dados & BI
+- Python (Pandas, NumPy)
+- SQL (PostgreSQL, Oracle, MySQL)
+- Looker Studio
+- Power BI
+- Qlik Sense
+- Tableau
+
+### ⚙️ Backend & Engenharia
+- Node.js
+- Express
+- Docker
+- APIs REST
+- Git & CI/CD
+
+### 🎨 Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML5 & CSS3
+- Tailwind
+
+---
+
+## 📈 O que eu construo
+
+✔️ Dashboards executivos  
+✔️ Sistemas internos hospitalares  
+✔️ Automações de processos  
+✔️ Projetos de BI  
+✔️ Aplicações web  
+✔️ Soluções orientadas a dados  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://twitter.com/gorodinho" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/emerson" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/egsguimaraes" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/gorod" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gor0d&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gor0d&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Ferramentas & Outros**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+## 🌎 Vamos Conectar?
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gor0d&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gor0d&theme=radical" />
+  <a href="https://linkedin.com/in/emersongsguimaraes">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/emersonguimaraes">
+    <img src="https://img.shields.io/badge/Portfólio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+  <a href="mailto:emersongsguimaraes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ☕ Apoie Meu Trabalho
-
-<a href="https://ko-fi.com/emersonguimaraes">
-  <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Buy Me a Coffee">
-</a>
+<h3 align="center">💡 "Dados contam histórias. Eu construo a estrutura para que elas sejam ouvidas."</h3>
