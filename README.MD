@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emerson%20Guimarães&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Tech%20Builder%20%E2%80%A2%20BI%20%E2%80%A2%20Engenharia%20de%20Dados%20%E2%80%A2%20Fullstack&descSize=16&descAlignY=58&descColor=a0a0c0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emerson%20Guimar%C3%A3es&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Tech%20Builder%20%7C%20BI%20%7C%20Engenharia%20de%20Dados%20%7C%20Fullstack&descSize=16&descAlignY=58&descColor=a0a0c0" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C86FF&center=true&vCenter=true&width=600&lines=Transformando+dados+em+vantagem+competitiva.;Pipelines%2C+dashboards+e+sistemas+que+resolvem.;Paraense+construindo+o+futuro+com+dados.)](https://git.io/typing-svg)
 
