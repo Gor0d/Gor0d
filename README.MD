@@ -6,12 +6,12 @@
 
 <br/>
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════╗
 ║  // NETRUNNER PROFILE — ACCESS GRANTED               ║
 ║  CLEARANCE: LEVEL 3 | NIGHT CITY TECH DISTRICT       ║
 ╚══════════════════════════════════════════════════════╝
-```
+</pre>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gor0d&color=FCEE0A&style=flat-square&label=PROFILE+SCANS)](https://github.com/gor0d)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emerson%20Guimarães-FCEE0A?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/emersongsguimaraes)
@@ -119,14 +119,14 @@ desenvolvendo dashboards estratégicos, sistemas internos e projetos de inovaç�
 
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════╗
 ║  // DISCONNECT                                       ║
 ║  Dados contam histórias.                             ║
 ║  Eu construo a estrutura para que elas sejam ouvidas.║
 ║  > SESSION TERMINATED_                               ║
 ╚══════════════════════════════════════════════════════╝
-```
+</pre>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,40:1a1a00,100:0A0A0F&height=120&section=footer&fontSize=12&fontColor=FCEE0A&text=%2F%2F%20NEURAL%20LINK%20DISCONNECTED&fontAlignY=65"/>
 
