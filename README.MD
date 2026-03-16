@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,40:1a1a00,100:0A0A0F&height=220&section=header&text=EMERSON%20GUIMARÃES&fontSize=48&fontColor=FCEE0A&fontAlignY=38&desc=%2F%2F%20DATA%20TECH%20BUILDER%20%7C%20BI%20%7C%20ENGENHARIA%20DE%20DADOS%20%7C%20FULLSTACK&descSize=13&descAlignY=58&descColor=00D4FF" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=1000&color=FCEE0A&center=true&vCenter=true&width=700&lines=SYSTEM+BOOT+%2F%2F+NEURAL+LINK+ESTABLISHED;DADOS+→+DECISÃO+→+IMPACTO;UNIDADE%3A+HOSPITAL+ADVENTISTA+DE+BELÉM%2C+PARÁ;PARAENSE+CONSTRUINDO+O+FUTURO+COM+DADOS.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&pause=1000&color=FCEE0A&center=true&vCenter=true&width=700&lines=SYSTEM+BOOT+%2F%2F+NEURAL+LINK+ESTABLISHED;DADOS+→+DECISÃO+→+IMPACTO;UNIDADE%3A+HOSPITAL+ADVENTISTA+DE+BELÉM%2C+PARÁ;CONSTRUINDO+O+FUTURO+COM+DADOS.)](https://git.io/typing-svg)
 
 <br/>
 
