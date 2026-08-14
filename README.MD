@@ -6,7 +6,7 @@ Data Analyst | Business Intelligence | Machine Learning
 
 ## About Me
 
-Data professional with 9+ years of experience working with analytics, BI and system integration.
+Data professional with 10+ years of experience working with analytics, BI and system integration.
 
 I specialize in transforming data into actionable insights through dashboards, automation and machine learning models used in real-world environments.
 
