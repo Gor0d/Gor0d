@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660">
+  <rect width="1400" height="660" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1398" height="658" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <!-- title bar -->
+  <circle cx="34" cy="30" r="7" fill="#ff5f56"/>
+  <circle cx="58" cy="30" r="7" fill="#ffbd2e"/>
+  <circle cx="82" cy="30" r="7" fill="#27c93f"/>
+  <text x="112" y="36" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+        font-size="17" fill="#8b949e">gor0d@github: ~/README.md</text>
+
+  <line x1="32" y1="58" x2="1368" y2="58" stroke="#30363d"/>
+
+  <!-- divider -->
+  <line x1="560" y1="86" x2="560" y2="622" stroke="#21262d"/>
+
+  <!-- left caption -->
+  <text x="46" y="102" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+        font-size="17" font-weight="700" fill="#58a6ff">gor0d@portrait</text>
+  <text x="48" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">             ,rA5MMMMHh32X;::.</text>
+  <text x="48" y="149" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">         .  :5MG##99B99B9SGMh3s.</text>
+  <text x="48" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">          .,2HS#9B&amp;&amp;&amp;&amp;@@@B9#SGM2r.</text>
+  <text x="48" y="183" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">         :;AHSB&amp;&amp;@@&amp;@@@@&amp;&amp;&amp;9#GM32r</text>
+  <text x="48" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">         ,:XA253MM#&amp;@@@@@@@@@&amp;9G3X,</text>
+  <text x="48" y="217" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">       ..sG9B999#M3hhMGGSSGGh52AXi.</text>
+  <text x="48" y="234" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">       .i9@@&amp;B&amp;&amp;&amp;B@&amp;h.h5:;G##99##G3,</text>
+  <text x="48" y="251" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">       ;2@@&amp;GHHXXH9Brh@BiiBB99#S#B9i</text>
+  <text x="48" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">       ;XSB&amp;&amp;&amp;&amp;BBB#23@@&amp;ArS95X3XXHSi .</text>
+  <text x="48" y="285" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">       39##99B&amp;&amp;B9GG@@@@SXH9BBBSHHMi .</text>
+  <text x="48" y="302" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">      :G@@@@@@&amp;&amp;&amp;@&amp;BB@@&amp;&amp;ShH#SSGGH5:</text>
+  <text x="48" y="319" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">      rS@@@@@@@@@@&amp;SG&amp;@9h9@G&amp;@@@@@9i</text>
+  <text x="48" y="336" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">     :HH&amp;@@@@@@@@@@@@@@@@@&amp;&amp;@@@@@@G.</text>
+  <text x="48" y="353" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">      ,5&amp;@@@@@@@@@@@@@@@@@@@&amp;@@@@9X</text>
+  <text x="48" y="370" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">       X&amp;@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;B9&amp;&amp;&amp;@@&amp;Bh::</text>
+  <text x="48" y="387" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">       ,#@@@@@@@&amp;&amp;@@&amp;&amp;&amp;&amp;B9B&amp;@@&amp;#Gi</text>
+  <text x="48" y="404" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">        i#@@@@@@@@@@@@@@@@@@@@9S2</text>
+  <text x="48" y="421" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">         :MB@@@@@@@@@@@@@@@@@9Ms</text>
+  <text x="48" y="438" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">          sHG#&amp;@@@@@@@@@@@&amp;S3s;;</text>
+  <text x="48" y="455" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">          sG#GMSBBBBBBBB#MArXhH3.</text>
+  <text x="48" y="472" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">          :H#B#HSBB99##SHMG9&amp;&amp;9h.</text>
+  <text x="48" y="489" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">           rG#B#GS9BB9##9&amp;@@@@G;</text>
+  <text x="48" y="506" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">            rHS99#####9B@@@@92,</text>
+  <text x="48" y="523" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">             iMGS#9BBB&amp;@&amp;9Ms.</text>
+  <text x="48" y="540" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve">              .iAhhh35As;.</text>
+  <text x="48" y="557" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve"></text>
+  <text x="48" y="574" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#c9d1d9" xml:space="preserve"></text>
+  <text x="598" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="22" font-weight="700" fill="#58a6ff">emerson@gor0d</text>
+  <text x="598" y="137" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="400" fill="#8b949e">────────────────────────────────────────────────────────</text>
+  <text x="598" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Role:</text>
+  <text x="825" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">IT Coordinator • Data / BI / ML</text>
+  <text x="598" y="197" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Location:</text>
+  <text x="825" y="197" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">Belém, PA • Brazil</text>
+  <text x="598" y="228" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Sector:</text>
+  <text x="825" y="228" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">Healthcare Technology</text>
+  <text x="598" y="259" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Focus:</text>
+  <text x="825" y="259" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">Analytics • Automation • Systems • AI</text>
+  <text x="598" y="290" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">IDE:</text>
+  <text x="825" y="290" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">VS Code • DBeaver • SQL Developer</text>
+  <text x="598" y="337" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Languages.Programming:</text>
+  <text x="825" y="337" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">Python • SQL • PL/SQL</text>
+  <text x="598" y="368" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Data &amp; BI:</text>
+  <text x="825" y="368" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">Power BI • Looker Studio • Pandas • NumPy</text>
+  <text x="598" y="399" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Data Engineering:</text>
+  <text x="825" y="399" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">ETL / ELT • Data Modeling • Oracle</text>
+  <text x="598" y="430" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Machine Learning:</text>
+  <text x="825" y="430" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">Scikit-learn • XGBoost • TensorFlow • SHAP</text>
+  <text x="598" y="461" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Backend &amp; Tools:</text>
+  <text x="825" y="461" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">FastAPI • REST APIs • Docker • Git</text>
+  <text x="598" y="508" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Current.Focus:</text>
+  <text x="825" y="508" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">Healthcare BI • Integrations • SaaS • Applied ML</text>
+  <text x="598" y="555" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Highlights:</text>
+  <text x="825" y="555" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">50+ dashboards • automation up to -40% time</text>
+  <text x="598" y="586" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">Projects:</text>
+  <text x="825" y="586" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">End-to-end ML • APIs • dashboards</text>
+  <text x="598" y="633" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#d29922">GitHub:</text>
+  <text x="825" y="633" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#c9d1d9">github.com/Gor0d</text>
+</svg>
