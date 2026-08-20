@@ -1,68 +1,126 @@
-# Emerson Guimarães
+<h1 align="center">Gor0d / README.md</h1>
 
-Data Analyst | Business Intelligence | Machine Learning
+<table>
+<tr>
+<td width="42%" valign="top">
 
----
+<pre>
+                 ;2hHS9#9999SSGh2ssr:.          
+            ,   iMS#B&&@@@@&&&&BB9GGM2:         
+               ;h#B&@@@@@@@@@@@@@&BB9S3s:       
+           . i:3SB&&@@@@@@@@@@@@@@&B##GM2:      
+            ;isHS9&&&@@@@@@@@@@@@@@&B#G35X.     
+           .,.sAA2A2h3hS&@@@@@@@@@@@@@&#MX.     
+          ,.rHB&&&BBB#H3hhMGS#99#SHh5AXXsi      
+         ..:#@@@@@@@@@@@&#.i2r,:3HGSS#SGHhA,    
+         .;A@@@&9#9hHMB&@S,9@&s;&@@@@@@@@@&r  , 
+          r5@@@&99B35h&&BiM@@&s,G&ShMHGH#&Br  , 
+          rXH9B&@@@@@@&9AM@@@@3XG@9h2H3rh99r  , 
+       . ,S&9##9B&&&&B9G#@@@@@BAM9&&@@@&B9Ss ,  
+       . i9@@@@@@&@&&&@@@@@@@@@S5H#GGGGGHM5;    
+       . 5B@@@@@@@@@@@@&ShB@@BH9@#S@@&&&&&Bs    
+        :h9@@@@@@@@@@@@@&B&@@BG9@BB@@@@@@@Bi    
+        5#S@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G.    
+         .H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Bs     
+          h@@@@@@@@@@&&@@@&&&@&&&@@@@@@@&M,:    
+          X&@@@@@@@@@@@@@@&&&&&B&@@@@@@@9i,,    
+          .G@@@@@@@@@@@@@@@@@@@@@@@@@@&&3       
+           ,G@@@@@@@@@@@@@@@@@@@@@@@@&BH:       
+            .3B@@@@@@@@@@@@@@@@@@@@@&#3:        
+             :G#B&@@@@@@@@@@@@@@@@&S3i,.        
+             :GBBS#B&&@@@@@@@@@&93riXhMi        
+             ,HB@&#SB&BB999###G325H9&&Ss        
+              A9&@@9#&@&&&BBBBBB&@@@@@9;        
+              .hB&@@9#BB&&&B&&&@@@@@@&A         
+               .MB&&@&BBBBBB&&@@@@@@Gi          
+                .h9B&&@@@@@@@@@@@BMr            
+                  2S#&@@@@@@@B#Ms,              
+                   .i2hh35Asi,                  
+</pre>
 
-## About Me
+</td>
+<td width="58%" valign="top">
 
-Data professional with 10+ years of experience working with analytics, BI and system integration.
+<pre>
+gor0d@github
+────────────────────────────────────────────────────
 
-I specialize in transforming data into actionable insights through dashboards, automation and machine learning models used in real-world environments.
+Role:           Data Analyst / BI / Machine Learning
+Location:       Belém, PA - Brazil
+Host:           Hospital Beneficente Portuguesa do Pará
+Focus:          Healthcare Data, BI, Automation, ML
+IDE:            VS Code / DBeaver / SQL Developer
 
-- 50+ dashboards delivered (Power BI, Looker Studio)
-- Automation reducing operational time by up to 40%
-- End-to-end ML projects with API and dashboard
+Languages.Programming:
+                Python / SQL / PL-SQL
 
----
+Data & BI:
+                Power BI / Looker Studio
+                Pandas / NumPy
+                ETL / ELT / Data Modeling
 
-## Tech Stack
+Machine Learning:
+                Scikit-learn / XGBoost / TensorFlow
+                SHAP / Explainability
 
-**Data & BI**
-- SQL, Python (Pandas, NumPy)
-- Power BI, Looker Studio
-- ETL / ELT, Data Modeling
+Backend & Tools:
+                FastAPI / REST APIs / Docker
+                Git / PostgreSQL / MySQL / Oracle
 
-**Machine Learning**
-- Scikit-learn, XGBoost, TensorFlow
-- SHAP (Explainability)
+Current.Focus:
+                Healthcare Indicators
+                Operational Automation
+                System Integration
+                Applied Machine Learning
 
-**Backend & Tools**
-- FastAPI, APIs, Docker
-- Git, PostgreSQL, MySQL
+GitHub:         github.com/Gor0d
+────────────────────────────────────────────────────
+</pre>
 
----
+</td>
+</tr>
+</table>
 
-## Featured Projects
+$ whoami
 
-### Hospital Readmission Prediction
-End-to-end machine learning project to predict readmission risk.
+Data professional focused on analytics, business intelligence, automation and machine learning, building solutions for real operational environments.
 
-- ML model (XGBoost + Neural Network)
-- REST API (FastAPI)
-- Dashboard (Streamlit)
-- SHAP explainability
+> 50+ dashboards delivered
+> Automation reducing operational time by up to 40%
+> End-to-end ML projects with API + dashboard
+> Strong experience with healthcare systems and data
 
-🔗 https://github.com/Gor0d/hospital-readmission-ml
+$ featured_projects
 
----
+🏥 Hospital Readmission Prediction
 
-### (Upcoming) Customer Churn Prediction
-Machine learning model to predict customer churn and support retention strategies.
+End-to-end machine learning project for hospital readmission risk prediction.
 
----
+model        XGBoost + Neural Network
+api          FastAPI
+dashboard    Streamlit
+explain      SHAP
 
-## Experience Highlights
+→ Open repository
 
-- Built data pipelines using Python and SQL
-- Developed dashboards for business decision-making
-- Automated reporting processes reducing manual work
-- Implemented ML solutions in production environments
+📊 Healthcare BI & Indicators
 
----
+Dashboards, operational indicators and data pipelines focused on healthcare management.
 
-## Contact
+stack        SQL / Oracle / Power BI / Looker Studio
+focus        indicators / automation / decision support
 
-- LinkedIn: https://linkedin.com/in/emersongsguimaraes  
-- GitHub: https://github.com/Gor0d  
-- Email: emersongsguimaraes@gmail.com
+⚙️ Systems & Integrations
+
+Internal tools, APIs and integrations designed to replace manual workflows and connect hospital systems.
+
+stack        Python / FastAPI / SQL / Docker
+focus        automation / integration / operational efficiency
+
+$ tech_stack
+
+Python   SQL   Oracle   Power BI   FastAPI   Docker   Git   PostgreSQL
+
+<p align="center">
+  <code>Data • BI • Automation • Machine Learning • Healthcare</code>
+</p>
